@@ -1,0 +1,35 @@
+{
+  "name": "express-sitemap-generator",
+  "version": "1.0.0",
+  "description": "Easily create XML-Sitemaps for your express app",
+  "homepage": "https://github.com/Easy-Coding-YT/express-sitemap-generator#readme",
+  "license": "MIT",
+  "keywords": [
+    "sitemap",
+    "express-sitemap",
+    "sitemap-generator",
+    "generator",
+    "express-sitemap-generator",
+    "xml-sitemap",
+    "xml",
+    "express-xml-sitemap",
+    "seo"
+  ],
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsup"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Easy-Coding-YT/express-sitemap-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Easy-Coding-YT/express-sitemap-generator/issues"
+  },
+  "devDependencies": {
+    "tsup": "^8.0.2",
+    "typescript": "^5.4.2"
+  }
+}
